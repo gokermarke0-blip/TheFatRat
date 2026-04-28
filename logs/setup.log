@@ -1,0 +1,13 @@
+------------------------------------------------------
+| Tools paths configured in setup.sh for TheFatRat |
+------------------------------------------------------
+                                                      
+/usr/bin/dig
+/usr/bin/python3
+/usr/bin/openssl
+/usr/bin/unzip
+/usr/local/sbin/zipalign
+/usr/local/sbin/dx
+/usr/local/sbin/aapt
+/usr/local/sbin/apktool
+/usr/local/sbin/baksmali

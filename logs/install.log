@@ -1,0 +1,28 @@
+xterm -> Not OK
+Dns-Utils -> OK
+Mono-Denvelop Utils -> Not OK
+gcc -> Not OK
+apache2 -> Not OK
+gnome-terminal -> Not OK
+upx-ucl -> Not OK
+ruby -> Not OK
+Python2 -> Not OK
+Python3 -> OK
+Python3-Pip -> Not OK
+Openssl -> OK
+jarsigner from default-jdk-> Not OK
+Unzip -> OK
+keytool -> Not OK
+mingw-w64 -> Not OK
+mingw-32 -> Not OK
+DX -> OK
+Aapt -> OK
+Apktool -> OK
+Baksmali -> OK
+Metasploit - msfconsole -> Not OK
+Metasploit - msfvenom -> Not OK
+Backdoor-factory -> Not OK
+Searchsploit -> Not OK
+Was not possible to install The Packages Labeled (Not Ok) in this list above
+Try : (apt-get remove --purge <packagename> && apt-get autoremove && apt-get install -f)
+before running fatrat setup script again
